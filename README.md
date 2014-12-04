@@ -5,6 +5,7 @@ By default, you can use it to trigger [animate.css](https://github.com/daneden/a
 But you can easily change the settings to your favorite animation library.
 
 Advantages:
+- Compatible with WebComponents.
 - Smaller than other JavaScript parallax plugins, like Scrollorama (they do fantastic things, but can be too heavy for simple needs)
 - Super simple to install, and works with animate.css, so if you already use it, that will be very fast to setup
 - Fast execution and lightweight code: the browser will like it ;-)
@@ -112,8 +113,8 @@ If you find a bug, please report it [here on Github](https://github.com/matthieu
 
 Developed by Matthieu Aussaguel, [mynameismatthieu.com](http://mynameismatthieu.com)
 
-+ [@mattaussaguel](//twitter.com/mattaussaguel)
-+ [Github Profile](//github.com/matthieua)
++ [@mattaussaguel](//twitter.com/belbesy)
++ [Github Profile](//github.com/belbesy)
 
 ## Contributors
 
@@ -123,3 +124,8 @@ Thanks to everyone who has contributed to the project so far:
 - [and many others](//github.com/matthieua/WOW/graphs/contributors)
 
 Initiated and designed by [Vincent Le Moign](//www.webalys.com/), [@webalys](//twitter.com/webalys)
+
+## WebComponents Compatability
+
++ [@belbesy](//twitter.com/belbesy)
++ [Github Profile](//github.com/belbesy)
