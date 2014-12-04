@@ -161,7 +161,7 @@
       this.stopped = false;
       this.boxes = (function() {
         var _i, _len, _ref, _results;
-        _ref = this.element.querySelectorAll("." + this.config.boxClass);
+        _ref = this.element.querySelectorAll("html /deep/ ." + this.config.boxClass);
         _results = [];
         for (_i = 0, _len = _ref.length; _i < _len; _i++) {
           box = _ref[_i];
@@ -246,7 +246,7 @@
         return;
       }
       element = element.parentNode || element;
-      _ref = element.querySelectorAll("." + this.config.boxClass);
+      _ref = element.querySelectorAll("html /deep/ ." + this.config.boxClass);
       _results = [];
       for (_i = 0, _len = _ref.length; _i < _len; _i++) {
         box = _ref[_i];
