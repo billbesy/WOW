@@ -1,13 +1,14 @@
 {
-  "name": "wow",
-  "version": "1.0.2",
+  "name": "wow-webcomponents",
+  "version": "1.0.23",
   "homepage": "https://github.com/matthieua/WOW",
   "authors": [
-    "Matthieu Aussaguel <matthieu.aussaguel@gmail.com>"
+    "Belbesy M. Adel <billbesy@gmail.com>"
   ],
-  "description": "Reveal CSS animation as you scroll down a page.",
+  "description": "WebComponents Compatible, Reveal CSS animation as you scroll down a page.",
   "main": "dist/wow.js",
   "keywords": [
+    "webcomponents",
     "scroll",
     "animation",
     "reveal"
